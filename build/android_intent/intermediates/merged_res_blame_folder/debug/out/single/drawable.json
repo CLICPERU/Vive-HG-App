@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\appvivehg\\Source File V_2.0.1\\FlyWeb_Flutter\\build\\android_intent\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\John\\.gradle\\caches\\transforms-2\\files-2.1\\c1ffc8882fffcdb6907dcbd52cae7601\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\appvivehg\\Source File V_2.0.1\\FlyWeb_Flutter\\build\\android_intent\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\John\\.gradle\\caches\\transforms-2\\files-2.1\\c1ffc8882fffcdb6907dcbd52cae7601\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\appvivehg\\Source File V_2.0.1\\FlyWeb_Flutter\\build\\android_intent\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\John\\.gradle\\caches\\transforms-2\\files-2.1\\c1ffc8882fffcdb6907dcbd52cae7601\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\appvivehg\\Source File V_2.0.1\\FlyWeb_Flutter\\build\\android_intent\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\John\\.gradle\\caches\\transforms-2\\files-2.1\\c1ffc8882fffcdb6907dcbd52cae7601\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]
